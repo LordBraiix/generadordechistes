@@ -1,6 +1,6 @@
 // App.js
 
-import Chiste from "./componentes/Chiste";
+import Chiste from "./componentes/Chistes";
 
 function App() {
     return (
